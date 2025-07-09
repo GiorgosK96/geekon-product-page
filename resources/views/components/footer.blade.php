@@ -1,12 +1,12 @@
 <footer class="bg-[#000000] text-[#FFFFFF] mt-[46px] relative font-[Inter] overflow-x-hidden">
-  <!-- Πορτοκαλί γραμμή -->
+
   <div class="w-full h-[1px] bg-[#F58220] absolute top-0 left-0 mt-[56px]"></div>
 
-  <!-- Wrapper -->
+
   <div class="w-full max-w-full lg:max-w-[1430px] mx-auto px-4 lg:px-0">
     <div class="flex flex-col lg:flex-row pt-8 gap-8 lg:gap-0">
 
-      <!-- logo + social -->
+
       <div class="flex flex-col items-center lg:items-start">
         <img src="{{ asset('images/logo.svg') }}" alt="GeekOn Logo" class="w-[180px] lg:w-[243px] mt-[48px] lg:mt-[78px] mx-auto lg:ml-[80px]">
         <p class="font-[700] text-[16px] mt-[32px] lg:mt-[52px] mx-auto lg:ml-[92px] whitespace-nowrap text-center lg:text-left">
@@ -22,7 +22,7 @@
         </div>
       </div>
 
-      <!-- links -->
+
       <div class="flex flex-col mt-[48px] lg:mt-[85px] mx-auto lg:mx-0 lg:ml-[197px] items-center lg:items-start text-center lg:text-left">
         <p class="font-[700] text-[16px]">ΠΟΙΟΙ ΕΙΜΑΣΤΕ</p>
         <div class="w-[129px] h-[1px] bg-[#ED872D] mt-[4px]"></div>
@@ -76,7 +76,7 @@
     </div>
   </div>
 
-  <!-- Λευκή μπάρα -->
+
   <div class="bg-white">
     <div class="w-full max-w-full lg:max-w-[1440px] mx-auto px-4 lg:px-0 pl-0 lg:pl-[40px] pr-0 lg:pr-[36px] flex flex-col lg:flex-row justify-between items-center gap-2 lg:gap-0 pt-[16px] pb-[19px]">
       <p class="font-[400] text-[14px] text-[#000000] text-center lg:text-left">

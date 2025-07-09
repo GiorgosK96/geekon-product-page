@@ -3,7 +3,7 @@
 
     <div class="mx-auto w-full max-w-full lg:max-w-[1281px] h-auto lg:h-[260px] bg-[#ED872D] rounded-[15px] mt-[24px] lg:mt-[38px] lg:ml-[75px] lg:mr-[75px] flex flex-col lg:flex-row justify-between items-center lg:items-start text-center lg:text-left gap-6 lg:gap-0 font-[Inter] px-4 lg:px-0">
 
-      <!-- Κείμενα -->
+
       <div class="flex flex-col text-white max-w-full lg:max-w-[700px]">
         <h2 class="text-[28px] lg:text-[36px] font-[700] mt-[32px] lg:mt-[54px] ml-0 lg:ml-[54px]">
           Μάθετε πρώτοι για τις προσφορές μας
@@ -13,7 +13,7 @@
         </p>
       </div>
 
-      <!-- Φόρμα -->
+
       <form class="relative w-full max-w-xs lg:max-w-[467px] h-[48px] mt-[16px] mb-[20px] lg:mt-[104px] lg:mb-0 lg:mr-[56px]">
         <input
           type="email"
