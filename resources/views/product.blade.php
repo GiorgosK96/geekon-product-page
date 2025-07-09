@@ -14,4 +14,5 @@
     @include('components.newsletter')
     @include('components.footer')
 </body>
+
 </html>
